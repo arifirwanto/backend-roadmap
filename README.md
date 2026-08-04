@@ -18,3 +18,5 @@ Become Backend Engineer specialized in:
 - Study 1–2 hours
 - 1 Git commit per day
 - Build real projects
+
+Main Branch Update
