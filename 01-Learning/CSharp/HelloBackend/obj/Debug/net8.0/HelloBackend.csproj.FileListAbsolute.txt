@@ -1,0 +1,15 @@
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\bin\Debug\net8.0\HelloBackend.exe
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\bin\Debug\net8.0\HelloBackend.deps.json
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\bin\Debug\net8.0\HelloBackend.runtimeconfig.json
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\bin\Debug\net8.0\HelloBackend.dll
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\bin\Debug\net8.0\HelloBackend.pdb
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\obj\Debug\net8.0\HelloBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\obj\Debug\net8.0\HelloBackend.AssemblyInfoInputs.cache
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\obj\Debug\net8.0\HelloBackend.AssemblyInfo.cs
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\obj\Debug\net8.0\HelloBackend.csproj.CoreCompileInputs.cache
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\obj\Debug\net8.0\HelloBackend.sourcelink.json
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\obj\Debug\net8.0\HelloBackend.dll
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\obj\Debug\net8.0\refint\HelloBackend.dll
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\obj\Debug\net8.0\HelloBackend.pdb
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\obj\Debug\net8.0\HelloBackend.genruntimeconfig.cache
+D:\BackendRoadmap\01-Learning\CSharp\HelloBackend\obj\Debug\net8.0\ref\HelloBackend.dll
