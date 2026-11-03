@@ -1,13 +1,18 @@
-﻿string customerName = "Arif Irwanto";
+﻿using System.Collections;
+using System.Runtime.CompilerServices;
+
+string customerName = "Arif Irwanto";
 string destination = "Puncak";
 int passengerCount = 4;
-double tripPrice = 750000;
+double distance = 85.5;
+decimal tripPrice = 750000;
+bool isPaid = false;
 
-Console.WriteLine(customerName);
-Console.WriteLine(destination);
-Console.WriteLine(passengerCount);
-Console.WriteLine(tripPrice);
+Console.WriteLine("=== ARIN CUSTOMER DATA ===");
 
-passengerCount = 5;
-
-Console.WriteLine(passengerCount);
+Console.WriteLine("Customer: " + customerName);
+Console.WriteLine("Destination: " + destination);
+Console.WriteLine("Passengers: " + passengerCount);
+Console.WriteLine("Distance: " + distance);
+Console.WriteLine("Trip Price: " + tripPrice);
+Console.WriteLine("Payment Status: " + isPaid);
