@@ -1,18 +1,18 @@
-﻿using System.Collections;
-using System.Runtime.CompilerServices;
-
-string customerName = "Arif Irwanto";
-string destination = "Puncak";
-int passengerCount = 4;
-double distance = 85.5;
-decimal tripPrice = 750000;
-bool isPaid = false;
-
+﻿decimal price = 850000;
+decimal additionalCost = 150000;
+decimal totalPrice = price + additionalCost;
+int passengerCount = 5;
+int maxPassenger = 6; 
+bool passenger = passengerCount <= maxPassenger;
+bool isDriverAvailable = true;
+bool isCarReady = true;
+bool bookingReady = passenger && isDriverAvailable && isCarReady;
 Console.WriteLine("=== ARIN CUSTOMER DATA ===");
 
-Console.WriteLine("Customer: " + customerName);
-Console.WriteLine("Destination: " + destination);
-Console.WriteLine("Passengers: " + passengerCount);
-Console.WriteLine("Distance: " + distance);
-Console.WriteLine("Trip Price: " + tripPrice);
-Console.WriteLine("Payment Status: " + isPaid);
+Console.WriteLine("Trip Price: " + price);
+Console.WriteLine("Additional Cost:" + additionalCost);
+Console.WriteLine("Total Price: " + totalPrice);
+Console.WriteLine("Passenger Available: " + passenger);
+Console.WriteLine("Driver Valid: " + isDriverAvailable);
+Console.WriteLine("Car Ready: " + isCarReady);
+Console.WriteLine("Can Accept Booking:" + bookingReady);
